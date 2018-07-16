@@ -1,20 +1,20 @@
-![IEEE eScience](/Header_IEEE_eScience2018_web500_v2.png)
 
 ## Benchmarking Algorithm Performance for Research
-
-https://www.escience2018.com/
+One of the currently most well-known benchmarks for algorithm performance is [ImageNet](http://www.image-net.org/). Many challenges have been organized using this database, with the latest challenge now running on [Kaggle](https://www.kaggle.com/c/imagenet-object-localization-challenge). In various scientific disciplines there is a growing interest to benchmark algorithm performance on research data. Many algorithms are proposed in the literature, but there is a growing need to compare them on the same data, using the same metrics and ground truth to compare their performance for a specific task. Organizing these open online benchmarks, will not only increase insight into which algorithms perform best for a given task, but open up these tasks for a wider audience to test their algorithms on, which could lead to new breakthroughs in the field. 
 
 ### Preliminary Program
-* *9:00*: \s Prof. Bram van Ginneken on Grand Challenges in Medical Image Analysis
+
+* 9:00: Prof. Bram van Ginneken on Grand Challenges in Medical Image Analysis
 * 9:45: Dr. Maria Eskevich on the Benchmarking Initiative for Multimedia Evaluation
 * 10:30: Coffee Break
-* 10:45: Mike Lees & Monika (to be confirmed) 
+* 10:45: Mike Lees & Monika Kuffer (to be confirmed) 
 * 11:15: Dr. Adriënne Mendrik on the Enlighten your Research (EYRA) Benchmark Platform 
 * 11:30: Discussion on Benchmarking Algorithm Performance for Research
 * 12:00: Lunch
 
 ### Speakers
-![Bram van Ginneken](/Bram_van_Ginneken2.jpg)\s\s 
+
+![Bram van Ginneken](/Bram_van_Ginneken2.jpg)
 Bram van Ginneken is Professor of Medical Image Analysis at Radboud University Medical Center and chairs the Diagnostic Image Analysis Group. He pioneered the concept of challenges (algorithm benchmarks) in medical image analysis, by organizing the first two challenge workshops in 2007 at one of the leading international conferences (MICCAI) in the field, after which many followed. He initiated and maintains https://grand-challenge.org/ that currently list over 150 challenges organized by various researchers in the field. He is the driving force behind the [COMIC](https://grand-challenge.org/Create_your_own_challenge/) (Consortium for Open Medical Image Computing) platform, to easily set up websites for challenges in biomedical images analysis. At this tutorial, he will share his experiences with challenges in the biomedical image analysis field.
 
 ![Maria Eskevich](/Maria2.png)
@@ -24,6 +24,12 @@ Maria Eskevich is Central Office Coordinator at CLARIN ERIC (European Research I
 ![Surf](/surf2.png) ![eScience](/escience2.png)
 * Mary Hester (SURFnet, Utrecht, the Netherlands) 
 * Adriënne Mendrik (Netherlands eScience Center, Amsterdam, the Netherlands) 
+
+### Associated with
+
+![IEEE eScience](/Header_IEEE_eScience2018_web500_v2.png)
+
+https://www.escience2018.com/
 
  
 
