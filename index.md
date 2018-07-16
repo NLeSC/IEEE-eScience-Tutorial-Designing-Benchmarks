@@ -4,11 +4,11 @@
 
 ### Preliminary Program
 * 9:00: Prof. Bram van Ginneken on Grand Challenges in Medical Image Analysis
-* 9:45: Dr. Maria Eskevich on Benchmarking Initiative for Multimedia Evaluation
+* 9:45: Dr. Maria Eskevich on the Benchmarking Initiative for Multimedia Evaluation
 * 10:30: Coffee Break
 * 10:45: Mike Lees & Monika (to be confirmed) 
-* 11:15: Dr. Adriënne Mendrik - Enlighten your research (EYRA) benchmark platform 
-* 11:30: Discussion
+* 11:15: Dr. Adriënne Mendrik on the Enlighten your Research (EYRA) Benchmark Platform 
+* 11:30: Discussion on Benchmarking Algorithm Performance for Research
 * 12:00: Lunch
 
 ### Speakers
