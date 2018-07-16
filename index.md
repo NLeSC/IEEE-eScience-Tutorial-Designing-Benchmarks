@@ -1,4 +1,4 @@
-![IEEE eScience](/Flyer.png)
+![IEEE eScience](/Header_IEEE_eScience2018_web500_v2.png)
 
 ## Benchmarking Algorithm Performance for Research
 
