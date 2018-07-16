@@ -1,15 +1,23 @@
 
 ## Benchmarking Algorithm Performance for Research
-One of the currently most well-known benchmarks for algorithm performance is [ImageNet](http://www.image-net.org/). Many challenges have been organized using this database, with the latest challenge now running on [Kaggle](https://www.kaggle.com/c/imagenet-object-localization-challenge). In various scientific disciplines there is a growing interest to benchmark algorithm performance on research data. Many algorithms are proposed in the literature, but there is a growing need to compare them on the same data, using the same metrics and ground truth to compare their performance for a specific task. Organizing these open online benchmarks, will not only increase insight into which algorithms perform best for a given task, but open up these tasks for a wider audience to test their algorithms on, which could lead to new breakthroughs in the field. 
+The tutorial will be held on October 29th, 2018 in association with the [IEEE international conference on eScience](https://www.escience2018.com/), at the Mövenpick Hotel Amsterdam City Centre (Piet Heinkade 11, Amsterdam). For registration, visit the [IEEE eScience website](https://www.escience2018.com/page/419707), early bird deadline August 31st, 2018. 
+
+### About
+One of the currently most well-known benchmarks for algorithm performance is [ImageNet](http://www.image-net.org/). Many challenges have been organized using this database, with the latest challenge now running on [Kaggle](https://www.kaggle.com/c/imagenet-object-localization-challenge). In various scientific disciplines there is a growing interest to benchmark algorithm performance on research data. Many algorithms are proposed in the literature, but there is a growing need to compare them on the same data, using the same metrics and ground truth to compare their performance for a specific task. Organizing these open online benchmarks, will not only increase insight into which algorithms perform best for a given task, but open up these tasks for a wider audience to test their algorithms on, which could lead to new breakthroughs in the field. This tutorial shows two research fields with a longer history in benchmarking algorithm performance, such as medical image analysis (Bram van Ginneken) and multimedia retrieval (Maria Eskevich), and how benchmarking is being introduced in a field with strong restrictions on data sharing, such as slum detection on sattelite images (Mike Lees & Monika Kuffer). At the end of the tutorial the EYRA benchmark platform will be introduced. A joint initiative of Surf and the Netherlands eScience Center to support researches to easily set-up benchmarks and apply their algorithm on benchmarks from various scientific disciplines. We end the tutorial with a discussion on the required features for such a platform from various scientific disciplines.     
+
+### Target Audience
+* Algorithm developers with an interest to apply their algorithm to a benchmark
+* Scientists interested in setting up a benchmark
+* Anyone with an interest in how benchmarks can advance a scientific field 
 
 ### Preliminary Program
 
 * 9:00: Prof. Bram van Ginneken on Grand Challenges in Medical Image Analysis
 * 9:45: Dr. Maria Eskevich on the Benchmarking Initiative for Multimedia Evaluation
 * 10:30: Coffee Break
-* 10:45: Mike Lees & Monika Kuffer (to be confirmed) 
-* 11:15: Dr. Adriënne Mendrik on the Enlighten your Research (EYRA) Benchmark Platform 
-* 11:30: Discussion on Benchmarking Algorithm Performance for Research
+* 10:45: Dr. Mike Lees & Dr. Monika Kuffer (to be confirmed) 
+* 11:15: The Enlighten your Research (EYRA) Benchmark Platform 
+* 11:30: Discussion on Required Features for the Benchmark Platform from Various Scientific Disciplines
 * 12:00: Lunch
 
 ### Speakers
@@ -21,6 +29,7 @@ Bram van Ginneken is Professor of Medical Image Analysis at Radboud University M
 Maria Eskevich is Central Office Coordinator at CLARIN ERIC (European Research Infrastructure for Language Resources and Technology). Since 2010 she has been highly interested in running the benchmarking evaluation campaigns for multimedia related tasks exploring how users can browse and discover intersting material within multimedia archives using both audio and visual features of the data. She has been organizer and co-organizer of many tasks (algorithm benchmarks) at MediaEval and TRECVID, including Rich Speech Retrieval (RSR) at MediaEval (2011), Search and Hyperlinking (S&H) at MediaEval (2012-2014), Search and Anchoring in Video Archives (SAVA) at MediaEval (2015), and Video Hyperlinking (LNK) at TRECVID (2015-present). At this tutorial, she will share her experiences with shared tasks for multimedia evaluation.
 
 ### Organization
+
 ![Surf](/surf2.png) ![eScience](/escience2.png)
 * Mary Hester (SURFnet, Utrecht, the Netherlands) 
 * Adriënne Mendrik (Netherlands eScience Center, Amsterdam, the Netherlands) 
@@ -29,7 +38,6 @@ Maria Eskevich is Central Office Coordinator at CLARIN ERIC (European Research I
 
 ![IEEE eScience](/Header_IEEE_eScience2018_web500_v2.png)
 
-https://www.escience2018.com/
 
  
 
