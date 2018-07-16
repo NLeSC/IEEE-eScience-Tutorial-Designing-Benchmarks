@@ -1,5 +1,3 @@
-
-
 ## Benchmarking Algorithm Performance for Research
 
 ### Preliminary Program
