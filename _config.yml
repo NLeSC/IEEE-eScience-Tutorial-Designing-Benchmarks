@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Tutorial on Benchmarking Algorithm Performance
 description: October 29th at the 14th IEEE International Conference on eScience 2018, Amsterdam, the Netherlands
 
-image: ./surflogo.png
+image: /surflogo.png
