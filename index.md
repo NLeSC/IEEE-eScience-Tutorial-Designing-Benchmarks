@@ -5,7 +5,7 @@
 https://www.escience2018.com/
 
 ### Preliminary Program
-* 9:00: Prof. Bram van Ginneken on Grand Challenges in Medical Image Analysis
+* *9:00*: \s Prof. Bram van Ginneken on Grand Challenges in Medical Image Analysis
 * 9:45: Dr. Maria Eskevich on the Benchmarking Initiative for Multimedia Evaluation
 * 10:30: Coffee Break
 * 10:45: Mike Lees & Monika (to be confirmed) 
@@ -14,7 +14,7 @@ https://www.escience2018.com/
 * 12:00: Lunch
 
 ### Speakers
-![Bram van Ginneken](/Bram_van_Ginneken2.jpg)
+![Bram van Ginneken](/Bram_van_Ginneken2.jpg)\s\s 
 Bram van Ginneken is Professor of Medical Image Analysis at Radboud University Medical Center and chairs the Diagnostic Image Analysis Group. He pioneered the concept of challenges (algorithm benchmarks) in medical image analysis, by organizing the first two challenge workshops in 2007 at one of the leading international conferences (MICCAI) in the field, after which many followed. He initiated and maintains https://grand-challenge.org/ that currently list over 150 challenges organized by various researchers in the field. He is the driving force behind the [COMIC](https://grand-challenge.org/Create_your_own_challenge/) (Consortium for Open Medical Image Computing) platform, to easily set up websites for challenges in biomedical images analysis. At this tutorial, he will share his experiences with challenges in the biomedical image analysis field.
 
 ![Maria Eskevich](/Maria2.png)
