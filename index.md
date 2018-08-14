@@ -1,4 +1,5 @@
 
+![steven-lelham-342930-unsplash.jpg](/steven-lelham-342930-unsplash.jpg)
 ## Benchmarking Algorithm Performance for Research
 The tutorial will be held on October 29th, 2018 in association with the [IEEE international conference on eScience](https://www.escience2018.com/), at the Mövenpick Hotel Amsterdam City Centre (Piet Heinkade 11, Amsterdam). 
 
