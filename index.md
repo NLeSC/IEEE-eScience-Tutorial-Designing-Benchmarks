@@ -1,6 +1,6 @@
 
 ## Benchmarking Algorithm Performance for Research
-The tutorial will be held on October 29th, 2018 in association with the [IEEE international conference on eScience](https://www.escience2018.com/), at the Mövenpick Hotel Amsterdam City Centre (Piet Heinkade 11, Amsterdam). For registration, visit the [IEEE eScience website](https://www.escience2018.com/page/419707), early bird deadline August 31st, 2018. 
+The tutorial will be held on October 29th, 2018 in association with the [IEEE international conference on eScience](https://www.escience2018.com/), at the Mövenpick Hotel Amsterdam City Centre (Piet Heinkade 11, Amsterdam). 
 
 ### About
 One of the currently most well-known benchmarks for algorithm performance is [ImageNet](http://www.image-net.org/). Many challenges have been organized using this database, with the latest challenge now running on [Kaggle](https://www.kaggle.com/c/imagenet-object-localization-challenge). In various scientific disciplines there is a growing interest to benchmark algorithm performance on research data. Many algorithms are proposed in the literature, but there is a growing need to compare them on the same data, using the same metrics and ground truth to compare their performance for a specific task. Organizing these open online benchmarks, will not only increase insight into which algorithms perform best for a given task, but open up these tasks for a wider audience to test their algorithms on, which could lead to new breakthroughs in the field. This tutorial shows two research fields with a longer history in benchmarking algorithm performance, such as medical image analysis (Bram van Ginneken) and multimedia retrieval (Maria Eskevich), and how benchmarking is being introduced in a field with strong restrictions on data sharing, such as slum detection on sattelite images (Mike Lees & Monika Kuffer). At the end of the tutorial the EYRA benchmark platform that is currently under development will be introduced. A joint initiative of Surf and the Netherlands eScience Center, to support researchers to easily set-up benchmarks and apply their algorithm on benchmarks from various scientific disciplines. We end the tutorial with a discussion on the required features for such a platform from various scientific disciplines.     
@@ -19,6 +19,9 @@ One of the currently most well-known benchmarks for algorithm performance is [Im
 * 11:15: The Enlighten your Research (EYRA) Benchmark Platform 
 * 11:30: Discussion on Required Features for the Benchmark Platform from Various Scientific Disciplines
 * 12:00: Lunch
+
+### Registration
+To register visit the [IEEE eScience website](https://www.escience2018.com/page/419707), **early bird deadline August 31st, 2018**. If you are not planning to attend the full conference, but only the workshop & tutorial day (October 29th), choose "Register for workshop & tutorial day (Early Bird)". The full list of tutorials and workshops can be found [here](https://www.escience2018.com/page/419754).
 
 ### Speakers
 
