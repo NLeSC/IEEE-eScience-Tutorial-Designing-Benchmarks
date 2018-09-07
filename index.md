@@ -13,13 +13,14 @@ One of the currently most well-known benchmarks for algorithm performance is [Im
 
 ### Preliminary Program
 
-* 9:00: Prof. Bram van Ginneken on Grand Challenges in Medical Image Analysis
-* 9:45: Dr. Maria Eskevich on "Benchmarking Initiatives Testing the Algorithms of Natural Language and Multimedia Content Processing for Information Retrieval Purposes and Beyond"
+* 8:30: Prof. Bram van Ginneken on Grand Challenges in Medical Image Analysis
+* 8:40: Prof. Bram van Ginneken on Grand Challenges in Medical Image Analysis
+* 9:35: Dr. Maria Eskevich on "Benchmarking Initiatives Testing the Algorithms of Natural Language and Multimedia Content Processing for Information Retrieval Purposes and Beyond"
 * 10:30: Coffee Break
-* 10:45: Dr. Mike Lees & Dr. Monika Kuffer (to be confirmed) 
-* 11:15: The Enlighten your Research (EYRA) Benchmark Platform 
+* 11:00: The Enlighten your Research (EYRA) Benchmark Platform 
+* 11:15: Dr. Mike Lees on setting up a challenge for slum detection on satellite images
 * 11:30: Discussion on Required Features for the Benchmark Platform from Various Scientific Disciplines
-* 12:00: Lunch
+* 12:30: Lunch
 
 ### Registration
 To register visit the [IEEE eScience website](https://www.escience2018.com/page/419707), **early bird deadline is extended to Friday 14 September 2018**. If you are not planning to attend the full conference, but only the workshop & tutorial day (October 29th), choose "Register for workshop & tutorial day (Early Bird)". You can attend another workshop in the afternoon, the full list of tutorials and workshops can be found [here](https://www.escience2018.com/page/419754).
