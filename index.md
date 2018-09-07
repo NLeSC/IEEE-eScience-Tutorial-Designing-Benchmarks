@@ -13,7 +13,7 @@ One of the currently most well-known benchmarks for algorithm performance is [Im
 
 ### Preliminary Program
 
-* 8:30: Prof. Bram van Ginneken on Grand Challenges in Medical Image Analysis
+* 8:30: Welcome
 * 8:40: Prof. Bram van Ginneken on Grand Challenges in Medical Image Analysis
 * 9:35: Dr. Maria Eskevich on "Benchmarking Initiatives Testing the Algorithms of Natural Language and Multimedia Content Processing for Information Retrieval Purposes and Beyond"
 * 10:30: Coffee Break
