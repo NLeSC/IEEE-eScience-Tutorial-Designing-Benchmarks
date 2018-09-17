@@ -18,8 +18,9 @@ One of the currently most well-known benchmarks for algorithm performance is [Im
 * 9:35: Dr. Maria Eskevich on "Benchmarking Initiatives Testing the Algorithms of Natural Language and Multimedia Content Processing for Information Retrieval Purposes and Beyond"
 * 10:30: Coffee Break
 * 11:00: The Enlighten your Research (EYRA) Benchmark Platform 
-* 11:15: Dr. Mike Lees on setting up a challenge for slum detection on satellite images
-* 11:30: Discussion on Required Features for the Benchmark Platform from Various Scientific Disciplines
+* 11:15: Dr. Mike Lees on "Slum detection on satellite images challenge"
+* 11:30: Kasper Marstal on "Continuous Integration For Grand Challenges"
+* 11:15: Discussion on Required Features for the Benchmark Platform from Various Scientific Disciplines
 * 12:30: Lunch
 
 ### Registration
