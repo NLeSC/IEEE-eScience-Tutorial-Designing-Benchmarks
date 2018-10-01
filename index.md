@@ -24,7 +24,7 @@ One of the currently most well-known benchmarks for algorithm performance is [Im
 * 12:30: Lunch
 
 ### Registration
-To register visit the [IEEE eScience website](https://www.escience2018.com/page/419707), **early bird deadline is extended to Friday 14 September 2018**. If you are not planning to attend the full conference, but only the workshop & tutorial day (October 29th), choose "Register for workshop & tutorial day (Early Bird)". You can attend another workshop in the afternoon, the full list of tutorials and workshops can be found [here](https://www.escience2018.com/page/419754).
+To register visit the [IEEE eScience website](https://www.escience2018.com/page/419707). If you are not planning to attend the full conference, but only the workshop & tutorial day (October 29th), choose "Register for workshop & tutorial day (Early Bird)". You can attend another workshop in the afternoon, the full list of tutorials and workshops can be found [here](https://www.escience2018.com/page/419754).
 
 ### Speakers
 
