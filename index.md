@@ -11,7 +11,7 @@ One of the currently most well-known benchmarks for algorithm performance is [Im
 * Scientists interested in setting up a benchmark
 * Anyone with an interest in how benchmarks can advance a scientific field 
 
-### Preliminary Program
+### Program
 
 * 8:30: Welcome
 * 8:35: "Grand Challenges in Medical Image Analysis" (Prof.dr. Bram van Ginneken - Radboud UMC)
