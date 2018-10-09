@@ -4,7 +4,7 @@
 The tutorial will be held on October 29th, 2018 in association with the [IEEE international conference on eScience](https://www.escience2018.com/), at the Mövenpick Hotel Amsterdam City Centre (Piet Heinkade 11, Amsterdam). 
 
 ### About
-One of the currently most well-known benchmarks for algorithm performance is [ImageNet](http://www.image-net.org/). Many challenges have been organized using this database, with the latest challenge now running on [Kaggle](https://www.kaggle.com/c/imagenet-object-localization-challenge). In various scientific disciplines there is a growing interest to benchmark algorithm performance on research data. Many algorithms are proposed in the literature, but there is a growing need to compare them on the same data, using the same metrics and ground truth to compare their performance for a specific task. Organizing these open online benchmarks, will not only increase insight into which algorithms perform best for a given task, but open up these tasks for a wider audience to test their algorithms on, which could lead to new breakthroughs in the field. This tutorial shows two research fields with a longer history in benchmarking algorithm performance, such as medical image analysis (Bram van Ginneken) and multimedia information retrieval (Maria Eskevich). Mike Lees will talk about how benchmarking is being introduced slum detection on sattelite images, a field with strong restrictions on data sharing, and Kasper Marstal will talk about a new concept in medical image analysis, continuous integration for grand challenges. Before the coffee break, the EYRA benchmark platform that is currently under development will be introduced. This is a joint initiative of Surf and the Netherlands eScience Center, to support researchers to easily set-up benchmarks and apply their algorithm on benchmarks from various scientific disciplines. We end the tutorial with a discussion on the required features for such a platform from various scientific disciplines.     
+One of the currently most well-known benchmarks for algorithm performance is [ImageNet](http://www.image-net.org/). Many challenges have been organized using this database, with the latest challenge now running on [Kaggle](https://www.kaggle.com/c/imagenet-object-localization-challenge). In various scientific disciplines there is a growing interest to benchmark algorithm performance on research data. Many algorithms are proposed in the literature, but there is a growing need to compare them on the same data, using the same metrics and ground truth to compare their performance for a specific task. Organizing these open online benchmarks, will not only increase insight into which algorithms perform best for a given task, but open up these tasks for a wider audience to test their algorithms on, which could lead to new breakthroughs in the field. This tutorial shows two research fields with a longer history in benchmarking algorithm performance, such as medical image analysis (Bram van Ginneken) and multimedia information retrieval (Maria Eskevich). Mike Lees will talk about how benchmarking is being introduced for slum detection on sattelite images, a field with strong restrictions on data sharing, and Kasper Marstal will talk about a new concept in medical image analysis, continuous integration for grand challenges. Before the coffee break, the EYRA benchmark platform that is currently under development will be introduced. This is a joint initiative of SURF and the Netherlands eScience Center, to support researchers to easily set-up benchmarks and apply their algorithm on benchmarks from various scientific disciplines. We end the tutorial with a discussion on the required features for such a platform from various scientific disciplines.     
 
 ### Target Audience
 * Algorithm developers with an interest to apply their algorithm to a benchmark
@@ -14,13 +14,13 @@ One of the currently most well-known benchmarks for algorithm performance is [Im
 ### Preliminary Program
 
 * 8:30: Welcome
-* 8:45: Prof. Bram van Ginneken on Grand Challenges in Medical Image Analysis
-* 9:30: Dr. Maria Eskevich on "Benchmarking Initiatives Testing the Algorithms of Natural Language and Multimedia Content Processing for Information Retrieval Purposes and Beyond"
-* 10:15: The Enlighten your Research (EYRA) Benchmark Platform
+* 8:35: "Grand Challenges in Medical Image Analysis" (Prof.dr. Bram van Ginneken - Radboud UMC)
+* 9:20: "Benchmarking Initiatives Testing the Algorithms of Natural Language and Multimedia Content Processing for Information Retrieval Purposes and Beyond" (dr. Maria Eskevich - CLARIN ERIC)
+* 10:05: "The Enlighten your Research (EYRA) Benchmark Platform" (dr. Adriënne Mendrik - NL eScience Center) and "SURF Research Cloud" (dr. Ymke van den Berg - SURF)  
 * 10:30: Coffee Break
-* 11:00: Dr. Mike Lees on "Slum Detection on Satellite Images Challenge"
-* 11:20: Kasper Marstal on "Continuous Integration For Grand Challenges"
-* 11:40: Discussion on Required Features for the Benchmark Platform from Various Scientific Disciplines
+* 11:00: "Slum Detection on Satellite Images Challenge" (dr. Mike Lees - UvA)
+* 11:20: "Continuous Integration for Grand Challenges" (Kasper Marstal - Erasmus MC)
+* 11:40: Discussion on Required Features for the EYRA Benchmark Platform from Various Scientific Disciplines
 * 12:30: Lunch
 
 ### Registration
@@ -37,7 +37,7 @@ Maria Eskevich is Central Office Coordinator at CLARIN ERIC (European Research I
 ### Organization
 
 ![Surf](/surf2.png) ![eScience](/escience2.png)
-* Mary Hester (SURFnet, Utrecht, the Netherlands) 
+* Mary Hester (SURF, Utrecht, the Netherlands) 
 * Adriënne Mendrik (Netherlands eScience Center, Amsterdam, the Netherlands) 
 
 ### Associated with
