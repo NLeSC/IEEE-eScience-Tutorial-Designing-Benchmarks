@@ -16,11 +16,12 @@ One of the currently most well-known benchmarks for algorithm performance is [Im
 * 8:30: Welcome
 * 8:35: "Grand Challenges in Medical Image Analysis" (Prof.dr. Bram van Ginneken - Radboud UMC)
 * 9:20: "Benchmarking Initiatives Testing the Algorithms of Natural Language and Multimedia Content Processing for Information Retrieval Purposes and Beyond" (dr. Maria Eskevich - CLARIN ERIC)
-* 10:05: "The Enlighten your Research (EYRA) Benchmark Platform" (dr. Adriënne Mendrik - NL eScience Center) and "SURF Research Cloud" (dr. Ymke van den Berg - SURF)  
+* 10:05: "The Enlighten your Research (EYRA) Benchmark Platform" (dr. Adriënne Mendrik - NL eScience Center)
 * 10:30: Coffee Break
 * 11:00: "Slum Detection on Satellite Images Challenge" (dr. Mike Lees - UvA)
 * 11:20: "Continuous Integration for Grand Challenges" (Kasper Marstal - Erasmus MC)
-* 11:40: Discussion on Required Features for the EYRA Benchmark Platform from Various Scientific Disciplines
+* 11:40: "SURF Research Cloud" (dr. Ymke van den Berg - SURF)
+* 12:00: Discussion on Required Features for the EYRA Benchmark Platform from Various Scientific Disciplines
 * 12:30: Lunch
 
 ### Registration
