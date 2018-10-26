@@ -21,11 +21,11 @@ One of the currently most well-known benchmarks for algorithm performance is [Im
 * 11:00: "Slum Detection on Satellite Images Challenge" (dr. Mike Lees - UvA)
 * 11:20: "Continuous Integration for Grand Challenges" (Kasper Marstal - Erasmus MC)
 * 11:40: "SURF Research Cloud" (dr. Ymke van den Berg - SURF)
-* 12:00: Discussion on Required Features for the EYRA Benchmark Platform from Various Scientific Disciplines
+* 12:00: Interactive discussion using menti.com on the EYRA benchmark platform for various scientific disciplines
 * 12:30: Lunch
 
 ### Registration
-To register visit the [IEEE eScience website](https://www.escience2018.com/page/419707). If you are not planning to attend the full conference, but only the workshop & tutorial day (October 29th), choose "Register for workshop & tutorial day (Early Bird)". You can attend another workshop in the afternoon, the full list of tutorials and workshops can be found [here](https://www.escience2018.com/page/419754).
+To register visit the [IEEE eScience website](https://www.escience2018.com/page/419707). If you are not planning to attend the full conference, but only the workshop & tutorial day (October 29th), choose "Register for workshop & tutorial day". You can attend another workshop in the afternoon, the full list of tutorials and workshops can be found [here](https://www.escience2018.com/page/419754).
 
 ### Speakers
 
