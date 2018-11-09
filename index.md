@@ -15,7 +15,7 @@ One of the currently most well-known benchmarks for algorithm performance is [Im
 
 * 8:30: Welcome
 * 8:35: ["Grand Challenges in Medical Image Analysis"](https://github.com/NLeSC/IEEE-eScience-Tutorial-Designing-Benchmarks/blob/master/Grand%20Challenges%20in%20Medical%20Image%20Analysis.pdf) (Prof.dr. Bram van Ginneken - Radboud UMC)
-* 9:20: "Benchmarking Initiatives Testing the Algorithms of Natural Language and Multimedia Content Processing for Information Retrieval Purposes and Beyond" (dr. Maria Eskevich - CLARIN ERIC)
+* 9:20: ["Benchmarking Initiatives Testing the Algorithms of Natural Language and Multimedia Content Processing for Information Retrieval Purposes and Beyond"](https://github.com/NLeSC/IEEE-eScience-Tutorial-Designing-Benchmarks/blob/master/2018_10_29-eSCience-BenchmarkTutotiral_ME.pdf) (dr. Maria Eskevich - CLARIN ERIC)
 * 10:05: ["The Enlighten your Research (EYRA) Benchmark Platform"](https://github.com/NLeSC/IEEE-eScience-Tutorial-Designing-Benchmarks/blob/master/EYRA%20Benchmark%20platform.pdf) (dr. Adriënne Mendrik - NL eScience Center)
 * 10:30: Coffee Break
 * 11:00: ["Slum Detection on Satellite Images Challenge"](https://github.com/NLeSC/IEEE-eScience-Tutorial-Designing-Benchmarks/blob/master/escience%20conference.pdf) (dr. Mike Lees - UvA)
