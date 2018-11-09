@@ -19,7 +19,7 @@ One of the currently most well-known benchmarks for algorithm performance is [Im
 * 10:05: "The Enlighten your Research (EYRA) Benchmark Platform" (dr. Adriënne Mendrik - NL eScience Center)
 * 10:30: Coffee Break
 * 11:00: ["Slum Detection on Satellite Images Challenge"](https://github.com/NLeSC/IEEE-eScience-Tutorial-Designing-Benchmarks/blob/master/escience%20conference.pdf) (dr. Mike Lees - UvA)
-* 11:20: "Continuous Integration for Grand Challenges" (Kasper Marstal - Erasmus MC)
+* 11:20: ["Continuous Integration for Grand Challenges"](https://github.com/NLeSC/IEEE-eScience-Tutorial-Designing-Benchmarks/blob/master/continuous-registration-ieee-escience-conf.pdf) (Kasper Marstal - Erasmus MC)
 * 11:40: "SURF Research Cloud" (dr. Ymke van den Berg - SURF)
 * 12:00: Interactive discussion using menti.com (code: 58 69 72) on the EYRA benchmark platform for various scientific disciplines
 * 12:30: Lunch
