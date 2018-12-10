@@ -38,8 +38,8 @@ Maria Eskevich is Central Office Coordinator at CLARIN ERIC (European Research I
 ### Organization
 
 ![Surf](/surf2.png) ![eScience](/escience2.png)
-* Mary Hester and Annette Langedijk (SURF, Utrecht, the Netherlands) 
 * Adriënne Mendrik (Netherlands eScience Center, Amsterdam, the Netherlands) 
+* Mary Hester and Annette Langedijk (SURF, Utrecht, the Netherlands) 
 
 ### Associated with
 
